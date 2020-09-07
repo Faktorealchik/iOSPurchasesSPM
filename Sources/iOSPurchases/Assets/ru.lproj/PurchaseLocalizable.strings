@@ -1,0 +1,23 @@
+/* 
+  PurchaseLocalizable.strings
+  Purchase
+
+  Created by Alexandr Nesterov on 4/30/19.
+  Copyright © 2019 Alexandr Nesterov. All rights reserved.
+*/
+
+"denied" = "Облачный сервис - отказано в доступе";
+"revoked" = "Облачный сервис - отклонено";
+"invalid id" = "Неверная покупка";
+"invalid price" = "Неверная цена покупки";
+"invalid signature" = "Неверная сигнатура";
+"missing params" = "Отсутствуют параметры";
+"cancelled" = "Пользователь отменил";
+"invalid" = "Оплата неверная";
+"not allowed" = "Оплата запрещена";
+"privacy required" = "Необходимо принять политику приватности";
+"not available" = "Продукт недоступен";
+"unauth" = "Неавторизованный запрос";
+"unknown" = "Неизвестно";
+"client invalid" = "Клиент неверный";
+"service failed" = "Нет доступа к облачному сервису";

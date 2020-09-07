@@ -1,0 +1,23 @@
+/* 
+  PurchaseLocalizable.strings
+  Purchase
+
+  Created by Alexandr Nesterov on 4/30/19.
+  Copyright © 2019 Alexandr Nesterov. All rights reserved.
+*/
+
+"denied" = "Cloud service permission denied";
+"revoked" = "Cloud service revoked";
+"invalid id" = "Invalid offer identifier";
+"invalid price" = "Invalid offer price";
+"invalid signature" = "Invalid signature";
+"missing params" = "Missing offer params";
+"cancelled" = "User cancelled";
+"invalid" = "Payment invalid";
+"not allowed" = "Payment not allowed";
+"privacy required" = "Privacy acknowledgment required";
+"not available" = "Store product not available";
+"unauth" = "Unathorized request data";
+"unknown" = "Unknown";
+"client invalid" = "Client invalid";
+"service failed" = "Cloud service network connection failed";
